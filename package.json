@@ -3,22 +3,6 @@
   "version": "1.0.0",
   "description": "AI-Powered LinkedIn Post Writer",
   "main": "index.html",
-  "scripts": {
-    "dev": "vercel dev",
-    "deploy": "vercel --prod"
-  },
-  "keywords": [
-    "linkedin",
-    "ai",
-    "post-writer",
-    "content-generation"
-  ],
-  "author": "Ishann Patel",
-  "license": "MIT"
-  "name": "linkedboost",
-  "version": "1.0.0",
-  "description": "AI-Powered LinkedIn Post Writer",
-  "main": "index.html",
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
